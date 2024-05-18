@@ -1,4 +1,4 @@
-public class promediodesueldo {
+public class A_promediodesueldo {
     public static void main(String[] args) {
 
         //Construir un programa en el cual se requiere lo siguiente:

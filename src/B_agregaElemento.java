@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
 
-public class agregaElemento {
+public class B_agregaElemento {
     public static ArrayList<String> elementos = new ArrayList<String>();
 
     public static void main(String[] args) {

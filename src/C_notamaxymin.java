@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Iterator;
 
-public class notamaxymin {
+public class C_notamaxymin {
     public static ArrayList<Float> notascurso = new ArrayList<Float>();
     public static void main(String[] args) {
         //Crear un método que nos permita obtener la nota máxima y mínima de un conjunto de
